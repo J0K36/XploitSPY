@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/XploitWizer/XploitSPY/raw/master/server/assets/webpublic/logo.png" height="60"><br>
-A cloud based Android Spying or Monitoring Tool, powered by NodeJS
+A cloud based Android Spying or Monitoring Tool, powered by J0k36
 </p>
 
 
@@ -79,7 +79,7 @@ It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https:/
 XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
+<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">J0K36</a></p>
 
 ## Credits
 
