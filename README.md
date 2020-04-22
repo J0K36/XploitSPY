@@ -79,7 +79,7 @@ It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https:/
 XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
+<p align="center">Made with ❤️ By J0K36<a href="https://github.com/J0K36">J0K36</a></p>
 
 ## Credits
 
