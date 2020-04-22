@@ -1,7 +1,7 @@
 /* 
  *   XploitSPY
  *   An Android Spying Tool
- *   By Team XploitWizer
+ *   By J0K36
  */
 
 
